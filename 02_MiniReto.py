@@ -1,3 +1,4 @@
+"""
 MINIRETO: CONTROL DE VIDEOJUEGO
 
 Estás programando un videojuego simple. Completa los huecos ___ para que:
